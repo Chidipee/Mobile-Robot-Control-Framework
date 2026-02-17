@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Force light theme for neobrutalism aesthetic -->
+    <style name="Theme.Mobile_Robot_android" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/neo_blue</item>
+        <item name="colorPrimaryVariant">@color/neo_blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/neo_yellow</item>
+        <item name="colorSecondaryVariant">@color/neo_yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/neo_bg</item>
+        <item name="android:statusBarColor">@color/neo_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/neo_bg</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+    </style>
+</resources>

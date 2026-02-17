@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoboPad</string>
+    <string name="connected">CONNECTED</string>
+    <string name="offline">OFFLINE</string>
+    <string name="stop">STOP</string>
+    <string name="power">POWER</string>
+    <string name="motor_left">L</string>
+    <string name="motor_right">R</string>
+    <string name="title">ROBOPAD</string>
+    <string name="connect_hint">Connect to WiFi</string>
+    <string name="wifi_name">\'RobotControl\'</string>
+</resources>

@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android build outputs
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# PlatformIO build artifacts
+Esp32_Firmware/.pio/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

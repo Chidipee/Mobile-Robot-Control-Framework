@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neobrutalism palette -->
+    <color name="neo_bg">#FFFDF7</color>
+    <color name="neo_card">#FFFFFF</color>
+    <color name="neo_border">#000000</color>
+    <color name="neo_shadow">#000000</color>
+
+    <color name="neo_pink">#FF5277</color>
+    <color name="neo_blue">#4A7DFF</color>
+    <color name="neo_yellow">#FFC93C</color>
+    <color name="neo_green">#4ADE80</color>
+    <color name="neo_red">#FF6B6B</color>
+    <color name="neo_purple">#A78BFA</color>
+
+    <color name="neo_text">#1A1A1A</color>
+    <color name="neo_text_secondary">#6B7280</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

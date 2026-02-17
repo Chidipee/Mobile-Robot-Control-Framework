@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="neo_border_width">3dp</dimen>
+    <dimen name="neo_shadow_offset">4dp</dimen>
+    <dimen name="neo_corner_radius">12dp</dimen>
+    <dimen name="neo_padding">16dp</dimen>
+    <dimen name="neo_padding_small">8dp</dimen>
+    <dimen name="neo_led_size">20dp</dimen>
+</resources>
