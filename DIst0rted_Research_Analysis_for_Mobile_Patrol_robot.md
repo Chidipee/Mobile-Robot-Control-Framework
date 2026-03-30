@@ -1,4 +1,4 @@
-# Research Analysis: Autonomous Indoor Security Patrol Robot
+# Dist0rted_Sentinel — Research Analysis
 
 ## 1. Project Overview
 

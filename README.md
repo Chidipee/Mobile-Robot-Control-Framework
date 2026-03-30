@@ -1,6 +1,6 @@
-# Mobile Robot Control Framework
+# Dist0rted_Sentinel
 
-A dual-mode mobile robot platform for **autonomous indoor security patrol** with real-time remote control via an Android smartphone. Built as a final-year engineering project.
+**Autonomous Indoor Security Patrol Robot** — a dual-mode mobile robot platform with real-time remote control via an Android smartphone. Built as a final-year engineering project.
 
 The robot can be driven manually using a phone-based joystick, or set to autonomously repeat a taught patrol route while avoiding obstacles, detecting environmental anomalies, and streaming live camera footage to the operator.
 
